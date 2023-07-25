@@ -186,3 +186,7 @@ footer a {
     font-weight: Bold;
     text-decoration: none;
 }
+
+footer a:hover {
+    text-decoration: underline;
+}
